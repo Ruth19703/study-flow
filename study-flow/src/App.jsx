@@ -2,7 +2,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import SiteLayout from "./layouts/SiteLayout";
-
 import DashboardPage from "./pages/DashboardPage";
 import TasksPage from "./pages/TasksPage";
 import FocusPage from "./pages/FocusPage";
